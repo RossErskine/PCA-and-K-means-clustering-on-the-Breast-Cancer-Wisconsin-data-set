@@ -23,7 +23,10 @@ In this research, we performed a K-means cluster algorithm, on the breast cancer
 
 ![PCA_2](https://user-images.githubusercontent.com/46631932/236258750-2468b296-6372-4060-a679-086c4d58bc75.png)
 
-![PCA_3](https:![K-means](https://user-images.githubusercontent.com/46631932/236258806-db7bcc37-fc3a-4948-8893-0ec91360c6b5.png)
+![PCA_3](https://user-images.githubusercontent.com/46631932/236259501-f14982ae-8239-4b50-96c8-ccb90cc9943f.png)
+
+![K-means](https://user-images.githubusercontent.com/46631932/236259570-2c6c31ae-61c0-48c7-9d8d-d2aef8b9196c.png)
 
 
-//user-images.githubusercontent.com/46631932/236258772-3353986d-c870-4d17-8e5e-51a8158836dd.png)
+
+
