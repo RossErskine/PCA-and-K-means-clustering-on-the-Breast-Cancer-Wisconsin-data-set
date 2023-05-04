@@ -3,6 +3,7 @@
 
 ## Ross Erskine, Ho Him Lee
 ![varianceExplained](https://user-images.githubusercontent.com/46631932/236257096-ecce23c7-9edf-4456-a549-a55c8aa3059e.png)
+
 Variance explained describes the variance from the principle components, which states that with six components, we can describe 90% of the data.
 
 ## Abstract
@@ -23,4 +24,6 @@ In this research, we performed a K-means cluster algorithm, on the breast cancer
 ![PCA_2](https://user-images.githubusercontent.com/46631932/236258750-2468b296-6372-4060-a679-086c4d58bc75.png)
 
 ![PCA_3](https:![K-means](https://user-images.githubusercontent.com/46631932/236258806-db7bcc37-fc3a-4948-8893-0ec91360c6b5.png)
+
+
 //user-images.githubusercontent.com/46631932/236258772-3353986d-c870-4d17-8e5e-51a8158836dd.png)
